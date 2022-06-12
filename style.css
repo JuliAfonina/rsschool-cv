@@ -21,8 +21,11 @@ body {
 html {
     scroll-behavior: smooth; 
   }
+  a {
+    color: white;
+  }
   .nav {
-    padding: 10px 0px 30px 0px;
+    padding: 0px 0px 30px 0px;
   }
   .nav-list {
     display: flex;
@@ -57,8 +60,8 @@ html {
 }
 .cv {
     width: 80%;
-    background-color: rgba(4, 2, 119, 0.288);
-    margin: 100px auto;
+    background-color: rgba(0, 0, 0, 0.699);
+    margin: 20px auto;
     padding: 30px;
     max-width: 900px;
     position: relative;
