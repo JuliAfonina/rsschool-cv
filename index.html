@@ -10,13 +10,14 @@
     <title>CV: Iuliia Afonina</title>
 </head>
 <body>
-    <div id="video" class="overlay">
-        <video id="space-video" loop="loop" autoplay="autoplay">
+    <div id="video">
+        <video loop="loop" autoplay="autoplay">
              <source src="assets/video/space.mp4" type="video/webm">
+             <source src="assets/video/space.webm" type="video/webm">
         </video>
       </div>
       <div class="cv">
-    <header class="header">
+    <header>
         <nav class="nav">
             <ul class="nav-list">
               <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
@@ -30,7 +31,7 @@
             </ul>
           </nav>
     </header>        
-    <main class="main main-container">
+    <main>
         <img class="photo" src="assets/img/photo.jpg" alt="photo">
         <section class="section" id="profile">
             <h1 class="section-title">Iuliia Afonina</h1>
@@ -59,35 +60,43 @@
         </section>
         <section class="section" id="code">
             <h2 class="section-title">Code</h2>
-            <pre><code>
-            function factorial(n) {
-            if(n < 0) return null;
-            if(n <= 1) return 1;
-            return n * factorial(n-1);
-            }
-            </code></pre>
+<pre class="scroll"><code>function myFunction() {
+document.getElementById("demo").innerHTML = 
+"May the Force be with you";
+}</code></pre>
         </section>
         <section class="section" id="courses">
             <h2 class="section-title">Courses</h2>
             <ul>
-                <li>freeCodeCamp: Responsive Web Design </br>(in progress)</li>
-                <li>RS School: JS/FE Pre-School 2022Q2 </br>(in progress)</li>
+                <li>freeCodeCamp: Responsive Web Design <br>(in progress)</li>
+                <li>RS School: JS/FE Pre-School 2022Q2 <br>(in progress)</li>
             </ul>
         </section>
         <section class="section" id="projects">
             <h2 class="section-title">Projects</h2>
             <ul>
-                <li><a href="https://juliafonina.github.io/rsschool-cv/">My CV</a></li>
+                <li><a href="https://juliafonina.github.io/rsschool-cv/" target="_blank">My CV</a></li>
             </ul>
         </section>
         <section class="section" id="education">
             <h2 class="section-title">Education</h2>
+            <ul>
+                <li>International Academy of&nbsp;Business and Management</li>
+            </ul>
         </section>
         <section class="section" id="languages">
             <h2 class="section-title">Languages</h2>
+            <ul>
+                <li>English: Intermediate (B1)</li>
+            </ul>
         </section>
     </main>
-    <footer class="footer">
+    <footer>
+        <div class="rs-school">
+            <a href="https://rs.school/js-stage0/" target="_blank"><img class="rs-school-logo" src="assets/svg/rs_school.svg" alt="rs-school"></a>
+            </div>
+        <p class="rs-school">2022 &copy;</p>
+        <p class="rs-school"><a href="https://github.com/JuliAfonina/" target="_blank">Github - JuliAfonina</a></p>
     </footer>
       </div>
     </body>
