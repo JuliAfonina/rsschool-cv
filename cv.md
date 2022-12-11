@@ -3,7 +3,7 @@
 
 ## Contact information
 - E-mail: julia_afonina@bk.ru
-- Github: juliafonina
+- Github: JuliAfonina
 - Discord: Elin#9426
 
 ## Summary
