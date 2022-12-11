@@ -1,5 +1,5 @@
 # Iuliia Afonina
-## _Junior frontend developer_
+## _Junior front-end developer_
 
 ## Contact information
 - E-mail: julia_afonina@bk.ru
