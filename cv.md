@@ -7,7 +7,7 @@
 - Discord: Elin#9426
 
 ## Summary
-I am a project manager in a web studio. So i have an expirience to create features for the sites. And now i am study, to know how does it works. Because i want to become a strong front-end developer. My goal is to learn a pure JavaScript at a good level and learn the React library.
+I am a project manager. I have an expirience to create features for the sites. And now i am study, to know how does it works. Because i want to become a strong front-end developer. My goal is to learn a pure JavaScript at a good level and learn the React library.
 
 ## Skills
 - Web-development: HTML5, CSS3
